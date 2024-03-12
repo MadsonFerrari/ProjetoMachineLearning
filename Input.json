@@ -1,0 +1,13 @@
+{
+  "Inputs": {
+    "data": [
+      {
+        "CustomerID": 3,
+        "Genre": "male",
+        "Age": 30,
+        "Annual Income (k$)": 130
+      }
+    ]
+  },
+  "GlobalParameters": 1.0
+}
